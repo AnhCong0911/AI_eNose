@@ -17,4 +17,7 @@ The device is used to deploy and test the eNose system.
 ## Build an odor recognition model using a neural network
 The data set description.
 The results of odor identification are described as shown below.
-
+<p align="center">
+<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/cm1.png" alt="test result" width="350" />  
+<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/cm_val.png" alt="test result" width="350" />  
+</p>
