@@ -51,21 +51,18 @@ The TensorFlow Lite framework is used to integrate the model into the applicatio
 # Result
 With the above design, a simple eNose system has been basically completed.
 <p align="center">
-<img src="/images/na.png" alt="normal air" width="500" />
-
-<em align="center">normal air</em>
+  <img src="/images/na.png" alt="normal air" width="500" />
+  <em align="center">normal air</em>
 </p>
 
 <p align="center">
-<img src="/images/cf.png" alt="caffee" width="500" />
-
-<em align="center">caffee</em>
+  <img src="/images/cf.png" alt="caffee" width="500" />
+  <em align="center">caffee</em>
 </p>
 
 <p align="center">
-<img src="/images/fcf.png" alt="food caffee" width="500" />
-
-<em align="center">food caffee</em>
+  <img src="/images/fcf.png" alt="food caffee" width="500" />
+  <em align="center">food caffee</em>
 </p>
 
 The actual system has not yet recognized the odor. However, it can be further developed to make the system work as expected.
