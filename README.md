@@ -32,6 +32,12 @@ The data collection system is set up as shown below.
 This process is implemented on Google colab. The processing source code can be found in **Colab_Notebooks** directory.
 ### 4. Model Evaluation
 Evaluate the performance of the model with a test set and a validation set.
+
+To build an odor recognition model using a neural network, we need to utilize tools such as Google Colab and frameworks like NumPy, Pandas, Matplotlib, TensorFlow, Keras, and TensorFlow Lite.
+### A device with BME688 gas sensor
+The device is used to deploy and test the eNose system.
+# Design process
+## Build an odor recognition model using a neural network
 The data set description.
 The results of odor identification are described as shown below.
 <p align="center">
