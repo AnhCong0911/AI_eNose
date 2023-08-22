@@ -52,8 +52,8 @@ The TensorFlow Lite framework is used to integrate the model into the applicatio
 With the above design, a simple eNose system has been basically completed.
 <p align="center">
   <img src="/images/na.png" alt="normal air" width="500" />
-  <em align="center">normal air</em>
 </p>
+<em align="center">normal air</em>
 
 <p align="center">
   <img src="/images/cf.png" alt="caffee" width="500" />
