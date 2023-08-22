@@ -14,16 +14,17 @@ There are three odors used as inputs to the system: air, coffee beans, and food 
 BME development kit (dev-kit) is used to collect odor data.
 #### The model building tool
 To build an odor recognition model using a neural network, we need to utilize tools such as Google Colab and frameworks like NumPy, Pandas, Matplotlib, TensorFlow, Keras, and TensorFlow Lite...
+The source code for implementing the model can be found in the A directory.
 ### A device with BME688 gas sensor
 The device is used to deploy and test the eNose system.
 # Design process
 ## I. Build an odor recognition model using a neural network
 ### 1. Config the dev-kit
-The dev-kit is configured with the appropriate Heater profile and Duty cycle. The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/software/bme/docs/).
+The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/software/bme/docs/).
 ### 2. Data collection
 The data collection system is set up as shown below.
 <p align="center">
-<img src="/images/DATN-Test Bench for data collection _ ngang.png" alt="Collection" width="500" />  
+<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/DATN-Test%20Bench%20for%20data%20collection%20_%20ngang.png" alt="Collection" width="500" />  
 </p>
 
 The collected data is combined into a large dataset. You can find it in [dataset](/Colab_Notebooks/Raw_data/dataset) directory. This dataset is used to build and evaluate the model.
