@@ -42,7 +42,7 @@ Use the [BME68x sensor API](https://github.com/boschsensortec/BME68x-Sensor-API)
 ### 2. Design an application
 The application has a simple user interface. It contains a table with two columns, representing the name of each odor and the corresponding prediction percentage.
 <p align="center">
-<img src="/images/cm1.png" alt="test result" width="350" />  
+<img src="/images/App UI.png" alt="test result" width="350" />  
 </p>
 
 ### 3. Model integration
