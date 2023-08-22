@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2abe329-8524-4629-977f-45673dde54b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ainose/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ainose/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/1c68fc42c117ff8799fcb5b610a150a6/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/a0b4dd6a463d823130a3201d335c5b91/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/a0b4dd6a463d823130a3201d335c5b91/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/a0b4dd6a463d823130a3201d335c5b91/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/a0b4dd6a463d823130a3201d335c5b91/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/a0b4dd6a463d823130a3201d335c5b91/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/.transforms/a0b4dd6a463d823130a3201d335c5b91/transformed/desugar_graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/merged_java_res/debug/feature-gas_classification.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/outputs/aar/gas_classification-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/merged_java_res/debug/feature-gas_classification_v1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/outputs/aar/gas_classification_v1-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v1/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/merged_java_res/debug/feature-gas_classification_v2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/outputs/aar/gas_classification_v2-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v2/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/73c188f352b75f724513854b81ef5b5a/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/e861e77411b48f6402ed1e47df377c0d/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/e861e77411b48f6402ed1e47df377c0d/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/e861e77411b48f6402ed1e47df377c0d/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/e861e77411b48f6402ed1e47df377c0d/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/e861e77411b48f6402ed1e47df377c0d/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/.transforms/e861e77411b48f6402ed1e47df377c0d/transformed/desugar_graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/merged_java_res/debug/feature-gas_classification_v3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/outputs/aar/gas_classification_v3-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v3/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/452d374a49f5300afc99a105cf1839c9/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/452d374a49f5300afc99a105cf1839c9/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/452d374a49f5300afc99a105cf1839c9/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/452d374a49f5300afc99a105cf1839c9/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/452d374a49f5300afc99a105cf1839c9/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/452d374a49f5300afc99a105cf1839c9/transformed/desugar_graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/.transforms/611a68e10c32bb1a03cb75e1a43c5b35/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/merged_java_res/debug/feature-gas_classification_v31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/outputs/aar/gas_classification_v31-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v31/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/69719cddbe6652f4110d046115bdc79f/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/69719cddbe6652f4110d046115bdc79f/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/69719cddbe6652f4110d046115bdc79f/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/69719cddbe6652f4110d046115bdc79f/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/69719cddbe6652f4110d046115bdc79f/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/69719cddbe6652f4110d046115bdc79f/transformed/desugar_graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/.transforms/836165e42e85c7ee95a8a00f8098514a/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/merged_java_res/debug/feature-gas_classification_v4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/outputs/aar/gas_classification_v4-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GasDetectorModel$Inputs.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GasDetectorModel$Metadata.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GasDetectorModel$Outputs.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GasDetectorModel.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v4/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/3fff083bd7230d4f63d781b6817de8cd/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/572a6a17c7030c09172df6c413f2b7ea/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/572a6a17c7030c09172df6c413f2b7ea/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/572a6a17c7030c09172df6c413f2b7ea/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/572a6a17c7030c09172df6c413f2b7ea/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/572a6a17c7030c09172df6c413f2b7ea/transformed/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/.transforms/572a6a17c7030c09172df6c413f2b7ea/transformed/desugar_graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/aar_metadata/debug/aar-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/annotations_typedef_file/debug/typedefs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/compile_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/compile_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/javac/debug/classes/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/library_assets/debug/out/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/merged_java_res/debug/feature-gas_classification_v5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel$Outputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/runtime_library_classes_dir/debug/org/tensorflow/lite/support/gasclassification/GasDetectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/intermediates/variant_model/debug/variant_model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/outputs/aar/gas_classification_v5-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/gasdetectormodel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/src/main/assets/gasnet.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gas_classification_v5/src/main/java/org/tensorflow/lite/support/gasclassification/GasDetectorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RGpL2ZfHn2FxHXw3S0DoAOeQ8M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/anhcong/Downloads/gas_classification_v51/gas_classification&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+    <key name="android.template.-134147487">
+      <recent name="com.example.ainose" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="AINose.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2abe329-8524-4629-977f-45673dde54b7" name="Changes" comment="" />
+      <created>1686886212274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686886212274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gas_classification_v31/build.gradle</url>
+          <line>45</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.nio.ByteBufferAsFloatBuffer" memberName="bb" />
+        <PinnedItemInfo parentTag="org.tensorflow.lite.support.common.TensorProcessor" memberName="operatorList" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+rootProject.name = "AINose"
+include ':app'
+//include ':gas_classification_v2'
+//include ':gas_classification_v31'
+//include ':gas_classification_v4'
+include ':gas_classification_v5'
+//include ':gas_classification_v51'
+include ':gas_classification_v51'

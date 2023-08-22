@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml:2:1-3:12
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml:2:1-3:12
+	package
+		INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+		ADDED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml:2:1-3:12
+		INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml:2:1-3:12
+uses-sdk
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+		ADDED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+		INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+		ADDED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
+		INJECTED from /home/anhcong/Apps/AndroidStudioProjects/AINose/gas_classification_v51/src/main/AndroidManifest.xml
