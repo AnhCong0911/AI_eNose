@@ -38,7 +38,7 @@ The dataset is divided into train, test and validation sets with the ratio 8:1:1
 
 ## II. Model integration into a device with a BME688 gas sensor
 ### 1. Config the BME688 gas sensor
-Use the [BME68x sensor API](https://github.com/boschsensortec/BME68x-Sensor-API) to configure the sensor on the device. This sensor should be configured in parallel mode. Installation instructions for parallel mode can be found [here](https://github.com/boschsensortec/BME68x-Sensor-API/tree/master/examples/parallel_mode).
+Use the [BME68x sensor API](https://github.com/boschsensortec/BME68x-Sensor-API) to configure the sensor on the device. This sensor should be configured in parallel mode. Instructions for parallel mode can be found [here](https://github.com/boschsensortec/BME68x-Sensor-API/tree/master/examples/parallel_mode).
 ### 2. Design an application
 The application has a simple user interface. It contains a table with two columns, representing the name of each odor and the corresponding prediction percentage.
 <p align="center">
@@ -46,5 +46,5 @@ The application has a simple user interface. It contains a table with two column
 </p>
 
 ### 3. Model integration
-The TensorFlow Lite framework is used to integrate the model into the application. Instructions can be found [here](https://www.tensorflow.org/lite)
+The TensorFlow Lite framework is used to integrate the model into the application. Instructions can be found [here](https://www.tensorflow.org/lite).
 # Result
