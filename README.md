@@ -14,7 +14,6 @@ There are three odors used as inputs to the system: air, coffee beans, and food 
 BME development kit (dev-kit) is used to collect odor data.
 #### The model building tool
 To build an odor recognition model using a neural network, we need to utilize tools such as Google Colab and frameworks like NumPy, Pandas, Matplotlib, TensorFlow, Keras, and TensorFlow Lite...
-The source code for implementing the model can be found in the A directory.
 ### A device with BME688 gas sensor
 The device is used to deploy and test the eNose system.
 # Design process
