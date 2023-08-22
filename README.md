@@ -28,7 +28,7 @@ The data collection system is set up as shown below.
 </p>
 
 ### 3. Data pre-processing & model building
-This process is implemented on Google colab. The source code can be found in **Colab_Notebooks** directory.
+This process is implemented on Google colab. The source code can be found in [Colab_Notebooks](./Colab_Notebooks) directory.
 ### 4. Model Evaluation
 Evaluate the performance of the model with a test set and a validation set.
 The data set description.
