@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ainose.app-mergeDebugResources-26:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/anhcong/.gradle/caches/transforms-3/8a2d0f5fb918fb42fd9e2bfea1b07306/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

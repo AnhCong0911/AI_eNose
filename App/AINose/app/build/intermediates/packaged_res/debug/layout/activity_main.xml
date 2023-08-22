@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_label"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Gas type"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/tv_proba"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Probability"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_target_gas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_target_gas_label"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:id="@+id/tv_target_gas_proba"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="@android:color/white"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_2nd_gas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border_2"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_2nd_gas_label"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="#CCFFFFFF"
+                />
+
+            <TextView
+                android:id="@+id/tv_2nd_gas_proba"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="#CCFFFFFF"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_3rd_gas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/border_3"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_3rd_gas_label"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="#99FFFFFF"
+                />
+
+            <TextView
+                android:id="@+id/tv_3rd_gas_proba"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="#99FFFFFF"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_4th_gas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:background="@drawable/border_4"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_4th_gas_label"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="#66FFFFFF"
+                />
+
+            <TextView
+                android:id="@+id/tv_4th_gas_proba"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="..."
+                android:textColor="#66FFFFFF"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
