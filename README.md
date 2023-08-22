@@ -1,4 +1,4 @@
-# Introduction
+# Introduction 
 The project focuses on the research and application of odor recognition model to the electronic nose (eNose) system, using BME688 gas sensor combined with neural network. The BME688 gas sensor collects data of odors. The neural network is used to build an odor recognition model with that data. The goal of the project is to build an odor recognition model and design an eNose system that works with that model.
 # Architecture
 The architecture of the system is described as shown below.
