@@ -3,7 +3,7 @@ The project focuses on the research and application of odor recognition model to
 # Architecture
 The architecture of the system is described as shown below.
 <p align="center">
-<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/DATN-Concat%20of%20Architecture.png" alt="Architecture" width="500" />  
+<img src="/images/DATN-Concat of Architecture.png" alt="Architecture" width="500" />  
 </p>
 
 ## Components
