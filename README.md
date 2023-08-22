@@ -24,18 +24,18 @@ The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/soft
 ### 2. Data collection
 The data collection system is set up as shown below.
 <p align="center">
-<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/DATN-Test%20Bench%20for%20data%20collection%20_%20ngang.png" alt="Collection" width="500" />  
+<img src="/images/DATN-Test Bench for data collection _ ngang.png" alt="Collection" width="500" />  
 </p>
 
 ### 3. Data pre-processing & model building
-This process is implemented on Google colab. The source code can be found in [Colab_Notebooks](./Colab_Notebooks) directory.
+This process is implemented on Google colab. The source code can be found in [Colab_Notebooks](/Colab_Notebooks) directory.
 ### 4. Model Evaluation
 Evaluate the performance of the model with a test set and a validation set.
 The data set description.
 The results of odor identification are described as shown below.
 <p align="center">
-<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/cm1.png" alt="test result" width="350" />  
-<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/cm_val.png" alt="test result" width="350" />  
+<img src="/images/cm1.png" alt="test result" width="350" />  
+<img src="/images/cm_val.png" alt="test result" width="350" />  
 </p>
 
 ## II. Model integration into a device with a BME688 gas sensor
