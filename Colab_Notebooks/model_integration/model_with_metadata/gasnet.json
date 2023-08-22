@@ -1,0 +1,74 @@
+{
+  "name": "GasNetV5.1 gas detector",
+  "description": "Identify the odor compound in the indoor air from a set of 4 categories such as normal air, caffee beans, food caffee, food socola etc.",
+  "version": "v5.1",
+  "subgraph_metadata": [
+    {
+      "input_tensor_metadata": [
+        {
+          "name": "InputTensor",
+          "description": "The tensor has shape [1, 7]. The dimension 0 is the batch axis. The dimension 1 contains 7 features, includes 'temperature', 'pressure', 'relative_humidity', 'mean_resistance_gassensor', 'std_resistance_gassensor', 'min_resistance_gassensor', 'max_resistance_gassensor'.",
+          "dimension_names": [
+            "Number of samples",
+            "Features"
+          ],
+          "content": {
+            "content_properties_type": "FeatureProperties"
+          },
+          "process_units": [
+            {
+              "options_type": "NormalizationOptions",
+              "options": {
+                "mean": [
+                  33.725597,
+                  999.335327,
+                  43.418591,
+                  893966.375,
+                  4937.712402,
+                  885108.4375,
+                  902426.0
+                ],
+                "std": [
+                  2.174986,
+                  1.096137,
+                  3.693544,
+                  178652.71875,
+                  4672.414062,
+                  179626.546875,
+                  178825.21875
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "output_tensor_metadata": [
+        {
+          "name": "OutputTensors",
+          "description": "Probabilities of the 4 labels respectively.",
+          "content": {
+            "content_properties_type": "FeatureProperties"
+          },
+          "stats": {
+            "max": [
+              1.0
+            ],
+            "min": [
+              0.0
+            ]
+          },
+          "associated_files": [
+            {
+              "name": "labels.txt",
+              "description": "Labels for objects that the model can recognize.",
+              "type": "TENSOR_AXIS_LABELS"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "author": "AnhCong",
+  "license": "Apache License. Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.",
+  "min_parser_version": "1.0.0"
+}
