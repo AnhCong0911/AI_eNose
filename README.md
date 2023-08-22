@@ -53,9 +53,15 @@ With the above design, a simple eNose system has been basically completed.
 <p align="center">
 <img src="/images/na.png" alt="normal air" width="500" />
 <em>normal air</em>
+</p>
+
+<p align="center">
 <img src="/images/cf.png" alt="caffee" width="500" />
 <em>caffee</em>
- <img src="/images/fcf.png" alt="food caffee" width="500" />
+</p>
+
+<p align="center">
+<img src="/images/fcf.png" alt="food caffee" width="500" />
 <em>food caffee</em>
 </p>
 
