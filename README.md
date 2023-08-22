@@ -40,6 +40,7 @@ The dataset is divided into train, test and validation sets with the ratio 8:1:1
 ### 1. Config the BME688 gas sensor
 Use the [BME68x sensor API](https://github.com/boschsensortec/BME68x-Sensor-API) to configure the sensor on the device. This sensor should be configured in parallel mode. Instructions for parallel mode can be found [here](https://github.com/boschsensortec/BME68x-Sensor-API/tree/master/examples/parallel_mode).
 ### 2. Design an application
+The source code of the application is in [AINose](/App/AINose) directory.
 The application has a simple user interface. It contains a table with two columns, representing the name of each odor and the corresponding prediction percentage.
 <p align="center">
 <img src="/images/App UI.png" alt="test result" width="350" />  
@@ -48,3 +49,10 @@ The application has a simple user interface. It contains a table with two column
 ### 3. Model integration
 The TensorFlow Lite framework is used to integrate the model into the application. Instructions can be found [here](https://www.tensorflow.org/lite).
 # Result
+With the above design, a simple eNose system has been basically completed.
+
+
+The actual system has not yet recognized the odor. However, it can be further developed to make the system work as expected.
+- Collect more odor data.
+- Use other odor recognition patterns.
+- System Deployment Optimization
