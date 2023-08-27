@@ -19,7 +19,7 @@ The device is used to deploy and test the eNose system.
 # Design process
 ## I. Build an odor recognition model using a neural network
 ### 1. Config the dev-kit
-**show the configuration section here**. The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/software/bme/docs/).
+The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/software/bme/docs/).
 ### 2. Data collection
 The data collection system is set up as shown below.
 <p align="center">
