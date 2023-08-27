@@ -8,7 +8,7 @@ The architecture of the system is described as shown below.
 
 ## Components
 ### Odors or smells
-There are three odors used as inputs to the system: air, coffee beans, and food coffee.
+There are three odors used as inputs to the system: air, coffee beans, and food coffee. 
 ### Support tools
 #### The data collection tool
 BME development kit (dev-kit) is used to collect odor data.
