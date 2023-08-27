@@ -55,7 +55,7 @@ The TensorFlow Lite framework is used to integrate the model into the applicatio
 - Integrating the model as a module into the Android application. Find detailed instructions [here](https://www.tensorflow.org/lite/inference_with_metadata/codegen#codegen).
 
 Click [here](https://www.tensorflow.org/lite) for more information. 
-# Result
+# Result 
 With the above design, a simple eNose system has been basically completed.
 <p align="center">
   <img src="/images/na.png" alt="normal air" width="500" />  
