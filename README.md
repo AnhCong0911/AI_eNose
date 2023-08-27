@@ -28,7 +28,7 @@ The data collection system is set up as shown below.
 
 The first step is to prepare odor samples. Next, use the dev-kit to collect odor data. Finally, transfer the collected data to Google Colab for processing.
 
-The collected data is combined into a large dataset. You can consult the dataset located in the [dataset](/Colab_Notebooks/Raw_data/dataset) dataset directory or collect your own using the dev-kit. This dataset is used to build and evaluate the model.
+The collected data is combined into a large dataset. You can consult the dataset located in the [dataset](/Colab_Notebooks/Raw_data/dataset) directory or collect your own using the dev-kit. This dataset is used to build and evaluate the model.
 ### 3. Data pre-processing & model building
 This process is implemented on Google colab. The source code can be found in [here](https://colab.research.google.com/drive/1WFSiDYSbSypMbWaZIIsTveBKB8-4bWwz?usp=sharing).
 ### 4. Model Evaluation
