@@ -23,7 +23,7 @@ The device is used to deploy and test the eNose system.
 ### 2. Data collection
 The data collection system is set up as shown below.
 <p align="center">
-<img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/DATN-Test%20Bench%20for%20data%20collection%20_%20ngang.png" alt="Collection" width="500" />  
+<img src="/images/DATN-Test Bench for data collection _ ngang.png" alt="Collection" width="500" />  
 </p>
 
 The first step is to prepare odor samples. Next, use the dev-kit to collect odor data. Finally, transfer the collected data to Google Colab for processing.
