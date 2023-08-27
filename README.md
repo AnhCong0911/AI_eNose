@@ -28,7 +28,7 @@ The data collection system is set up as shown below.
 
 The collected data is combined into a large dataset. You can find it in [dataset](/Colab_Notebooks/Raw_data/dataset) directory. This dataset is used to build and evaluate the model.
 ### 3. Data pre-processing & model building
-This process is implemented on Google colab. The source code can be found in [Colab_Notebooks](/Colab_Notebooks) directory.
+This process is implemented on Google colab. The source code can be found in [here](https://colab.research.google.com/drive/1WFSiDYSbSypMbWaZIIsTveBKB8-4bWwz?usp=sharing).
 ### 4. Model Evaluation
 The dataset is divided into train, test and validation sets with the ratio 8:1:1. Evaluate the performance of the model with test and validation sets. The results of odor identification are described as shown below.
 <p align="center">
