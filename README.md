@@ -28,7 +28,7 @@ The data collection system is set up as shown below.
 
 The first step is to prepare odor samples. Next, use the dev-kit to collect odor data. Finally, transfer the collected data to Google Colab for processing.
 
-The collected data is combined into a large dataset. You can find it in [dataset](/Colab_Notebooks/Raw_data/dataset) directory. This dataset is used to build and evaluate the model.
+The collected data is combined into a large dataset. You can consult the dataset located in the [dataset](/Colab_Notebooks/Raw_data/dataset) dataset directory or collect your own using the dev-kit. This dataset is used to build and evaluate the model.
 ### 3. Data pre-processing & model building
 This process is implemented on Google colab. The source code can be found in [here](https://colab.research.google.com/drive/1WFSiDYSbSypMbWaZIIsTveBKB8-4bWwz?usp=sharing).
 ### 4. Model Evaluation
@@ -54,5 +54,5 @@ The TensorFlow Lite framework is used to integrate the model into the applicatio
 - Adding metadata to the model. Find detailed instructions [here](https://www.tensorflow.org/lite/models/convert/metadata).
 - Integrating the model as a module into the Android application. Find detailed instructions [here](https://www.tensorflow.org/lite/inference_with_metadata/codegen#codegen).
 
-More detail [here](https://www.tensorflow.org/lite).
+Click [here](https://www.tensorflow.org/lite) for more information. 
 # Result
