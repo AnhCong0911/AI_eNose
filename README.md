@@ -7,24 +7,26 @@ The architecture of the system is described as shown below.
 </p>
 
 ## Components
-### Odors/smells
+### Odors or smells
 There are three odors used as inputs to the system: air, coffee beans, and food coffee.
 ### Support tools
 #### The data collection tool
 BME development kit (dev-kit) is used to collect odor data.
 #### The model building tool
-To build an odor recognition model using a neural network, we need to utilize tools such as Google Colab and frameworks like NumPy, Pandas, Matplotlib, TensorFlow, Keras, and TensorFlow Lite...
+To create an odor recognition model using a neural network, we need to utilize tools such as Google Colab, Jupyter Lab and frameworks like NumPy, Pandas, Matplotlib, TensorFlow, TensorFlow Lite...
 ### A device with BME688 gas sensor
 The device is used to deploy and test the eNose system.
 # Design process
 ## I. Build an odor recognition model using a neural network
 ### 1. Config the dev-kit
-The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/software/bme/docs/).
+**show the configuration section here**. The user manual dev-kit can be found [here](https://www.bosch-sensortec.com/software/bme/docs/).
 ### 2. Data collection
 The data collection system is set up as shown below.
 <p align="center">
 <img src="https://github.com/AnhCong0911/AI_eNose/blob/develop/images/DATN-Test%20Bench%20for%20data%20collection%20_%20ngang.png" alt="Collection" width="500" />  
 </p>
+
+The first step is to prepare odor samples. Next, use the dev-kit to collect odor data. Finally, transfer the collected data to Google Colab for processing.
 
 The collected data is combined into a large dataset. You can find it in [dataset](/Colab_Notebooks/Raw_data/dataset) directory. This dataset is used to build and evaluate the model.
 ### 3. Data pre-processing & model building
@@ -36,15 +38,21 @@ The dataset is divided into train, test and validation sets with the ratio 8:1:1
 <img src="/images/cm_val.png" alt="test result" width="350" />  
 </p>
 
+The figure above shows the confusion matrix obtained from evaluating the model using the test and validation sets of the dataset. The neural network model demonstrates strong recognition capabilities. On the vertical axis, we have the predicted labels of the odor samples, while on the horizontal axis, we have the actual labels assigned to the odor samples. In this context, 0 represents 'air', 1 represents 'coffee beans', and 2 represents 'food coffee'.
 ## II. Model integration into a device with a BME688 gas sensor
 ### 1. Config the BME688 gas sensor
-Use the [BME68x sensor API](https://github.com/boschsensortec/BME68x-Sensor-API) to configure the sensor on the device. This sensor should be configured in parallel mode. Instructions for parallel mode can be found [here](https://github.com/boschsensortec/BME68x-Sensor-API/tree/master/examples/parallel_mode).
-### 2. Design an application
-The application has a simple user interface. It contains a table with two columns, representing the name of each odor and the corresponding prediction percentage.
+Use the [BME68x sensor API](https://github.com/boschsensortec/BME68x-Sensor-API) to configure the sensor on the device. This sensor should be configured in parallel mode. Find instructions for enabling parallel mode [here](https://github.com/boschsensortec/BME68x-Sensor-API/tree/master/examples/parallel_mode).
+### 2. Design an Android application
+The application has a simple user interface that includes a table with two columns, representing the name of each odor and its corresponding prediction percentage.
 <p align="center">
 <img src="/images/App UI.png" alt="test result" width="350" />  
 </p>
 
 ### 3. Model integration
-The TensorFlow Lite framework is used to integrate the model into the application. Instructions can be found [here](https://www.tensorflow.org/lite).
+The TensorFlow Lite framework is used to integrate the model into the application. Integration steps include:
+- Converting the model format to _.tflite_. Find detailed instructions [here](https://www.tensorflow.org/lite/models/convert/convert_models).
+- Adding metadata to the model. Find detailed instructions [here](https://www.tensorflow.org/lite/models/convert/metadata).
+- Integrating the model as a module into the Android application. Find detailed instructions [here](https://www.tensorflow.org/lite/inference_with_metadata/codegen#codegen).
+
+More detail [here](https://www.tensorflow.org/lite).
 # Result
