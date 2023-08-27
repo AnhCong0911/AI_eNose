@@ -80,5 +80,5 @@ With the above design, a simple eNose system has been basically completed.
 
 The actual system has not yet recognized the odor. However, it can be further developed to make the system work as expected.
 - Collect more odor data.
-- Use other odor recognition patterns.
-- System Deployment Optimization
+- Use other odor recognition pattern algorithms.
+- System deployment optimization
